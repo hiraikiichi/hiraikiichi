@@ -26,6 +26,9 @@
 [![](https://img.shields.io/badge/-Jquery-000.svg?logo=jquery&style=popout-square)](https://github.com/hiraikiichi)
 [![](https://img.shields.io/badge/-Bootstrap-000.svg?logo=bootstrap&style=popout-square)](https://github.com/hiraikiichi)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiraikiichi)](https://github.com/hiraikiichi)
+
+
 <!--
 **hiraikiichi/hiraikiichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
