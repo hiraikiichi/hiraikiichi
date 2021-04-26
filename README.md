@@ -7,6 +7,8 @@
 
 # Skills
 
+[![](https://img.shields.io/badge/-Adobe%20Photoshop-000.svg?logo=adobe-photoshop&style=popout-square)](https://github.com/hiraikiichi)
+
 
 <!--
 **hiraikiichi/hiraikiichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
