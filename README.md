@@ -27,7 +27,7 @@
 [![](https://img.shields.io/badge/-Bootstrap-000.svg?logo=bootstrap&style=popout-square)](https://github.com/hiraikiichi)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiraikiichi&count_private=true)](https://github.com/hiraikiichi)
-
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hiraikiichi&count_private=true)
 
 <!--
 **hiraikiichi/hiraikiichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
