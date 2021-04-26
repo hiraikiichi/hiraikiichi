@@ -8,6 +8,16 @@
 # Skills
 
 [![](https://img.shields.io/badge/-Adobe%20Photoshop-000.svg?logo=adobe-photoshop&style=popout-square)](https://github.com/hiraikiichi)
+[![](https://img.shields.io/badge/-Adobe%20lightroom%20classic-000.svg?logo=adobe-lightroom-classic&style=popout-square)](https://github.com/hiraikiichi)
+[![](https://img.shields.io/badge/-Arduino-000.svg?logo=arduino&style=popout-square)](https://github.com/hiraikiichi)
+[![](https://img.shields.io/badge/-Bootstrap-000.svg?logo=bootstrap&style=popout-square)](https://github.com/hiraikiichi)
+[![](https://img.shields.io/badge/-Docker-000.svg?logo=docker&style=popout-square)](https://github.com/hiraikiichi)
+[![](https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=popout-square)](https://github.com/hiraikiichi)
+[![](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=popout-square)](https://github.com/hiraikiichi)
+[![](https://img.shields.io/badge/-Javascript-000.svg?logo=javascript&style=popout-square)](https://github.com/hiraikiichi)
+[![](https://img.shields.io/badge/-Jquery-000.svg?logo=jquery&style=popout-square)](https://github.com/hiraikiichi)
+[![](https://img.shields.io/badge/-Python-000.svg?logo=python&style=popout-square)](https://github.com/hiraikiichi)
+[![](https://img.shields.io/badge/-Qiita-000.svg?logo=qiita&style=popout-square)](https://github.com/hiraikiichi)
 
 
 <!--
