@@ -26,7 +26,7 @@
 [![](https://img.shields.io/badge/-Jquery-000.svg?logo=jquery&style=popout-square)](https://github.com/hiraikiichi)
 [![](https://img.shields.io/badge/-Bootstrap-000.svg?logo=bootstrap&style=popout-square)](https://github.com/hiraikiichi)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiraikiichi)](https://github.com/hiraikiichi)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiraikiichi&count_private=true)](https://github.com/hiraikiichi)
 
 
 <!--
