@@ -13,12 +13,6 @@
 [![](https://img.shields.io/badge/-Arduino-000.svg?logo=arduino&style=popout-square)](https://github.com/hiraikiichi)
 [![](https://img.shields.io/badge/-Raspberrypi-000.svg?logo=raspberrypi&style=popout-square)](https://github.com/hiraikiichi)
 
-[![](https://img.shields.io/badge/-Html5-000.svg?logo=html5&style=popout-square)](https://github.com/hiraikiichi)
-[![](https://img.shields.io/badge/-Css3-000.svg?logo=css3&style=popout-square)](https://github.com/hiraikiichi)
-[![](https://img.shields.io/badge/-Javascript-000.svg?logo=javascript&style=popout-square)](https://github.com/hiraikiichi)
-[![](https://img.shields.io/badge/-Jquery-000.svg?logo=jquery&style=popout-square)](https://github.com/hiraikiichi)
-[![](https://img.shields.io/badge/-Bootstrap-000.svg?logo=bootstrap&style=popout-square)](https://github.com/hiraikiichi)
-
 [![](https://img.shields.io/badge/-Python-000.svg?logo=python&style=popout-square)](https://github.com/hiraikiichi)
 [![](https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=popout-square)](https://github.com/hiraikiichi)
 
@@ -26,6 +20,11 @@
 [![](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=popout-square)](https://github.com/hiraikiichi)
 [![](https://img.shields.io/badge/-Qiita-000.svg?logo=qiita&style=popout-square)](https://github.com/hiraikiichi)
 
+[![](https://img.shields.io/badge/-Html5-000.svg?logo=html5&style=popout-square)](https://github.com/hiraikiichi)
+[![](https://img.shields.io/badge/-Css3-000.svg?logo=css3&style=popout-square)](https://github.com/hiraikiichi)
+[![](https://img.shields.io/badge/-Javascript-000.svg?logo=javascript&style=popout-square)](https://github.com/hiraikiichi)
+[![](https://img.shields.io/badge/-Jquery-000.svg?logo=jquery&style=popout-square)](https://github.com/hiraikiichi)
+[![](https://img.shields.io/badge/-Bootstrap-000.svg?logo=bootstrap&style=popout-square)](https://github.com/hiraikiichi)
 
 <!--
 **hiraikiichi/hiraikiichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
