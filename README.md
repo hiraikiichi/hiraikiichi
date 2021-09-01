@@ -14,10 +14,13 @@
 
 [![](https://img.shields.io/badge/-Python-000.svg?logo=python&style=popout-square)](https://github.com/hiraikiichi)
 [![](https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=popout-square)](https://github.com/hiraikiichi)
+[![]()](https://github.com/hiraikiichi)
+[![](https://img.shields.io/badge/-Firebase-000000.svg?logo=firebase&style=popout-square)](https://github.com/hiraikiichi)
+
 
 [![](https://img.shields.io/badge/-Docker-000.svg?logo=docker&style=popout-square)](https://github.com/hiraikiichi)
 [![](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=popout-square)](https://github.com/hiraikiichi)
-[![](https://img.shields.io/badge/-Qiita-000.svg?logo=qiita&style=popout-square)](https://github.com/hiraikiichi)
+[![](https://img.shields.io/badge/-Qiita-000.svg?logo=qiita&style=popout-square)](https://qiita.com/kii95)
 
 [![](https://img.shields.io/badge/-Html5-000.svg?logo=html5&style=popout-square)](https://github.com/hiraikiichi)
 [![](https://img.shields.io/badge/-Css3-000.svg?logo=css3&style=popout-square)](https://github.com/hiraikiichi)
